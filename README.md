@@ -1,15 +1,14 @@
-## Hi there 👋
+## Hi there 👋 I'm 0x5447
 
-<!--
-**0x5447/0x5447** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on: Configuring my GitHub profile and exploring new technologies.
+- 🌱 I’m currently learning: Advanced Git workflows, automation with GitHub Actions, and modern web development.
+- 👯 I’m looking to collaborate on: Open-source projects related to automation, security, or developer tooling.
+- 💬 Ask me about: Git, GitHub, Linux, or anything related to automation.
+- 📫 How to reach me: [Your preferred contact method, e.g., email or Twitter]
+- ⚡ Fun fact: I love experimenting with new command line tools and scripts.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
+---
+
+Thanks for visiting my profile! Feel free to check out my repositories or connect with me.
